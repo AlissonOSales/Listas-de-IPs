@@ -1,4 +1,4 @@
 #IP Servidor de Sinalização do talk no NextCloud
 116.202.240.176
 #IP Cel. Julio para teste
-177.79.21.162
+149.22.93.160
