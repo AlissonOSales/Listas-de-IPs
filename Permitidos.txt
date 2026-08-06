@@ -1,3 +1,5 @@
 #IP Servidor de Sinalização do talk no NextCloud
 116.202.240.176
 149.22.93.160
+#Bloco de IPs da CloudFlare
+172.64.0.0/13
